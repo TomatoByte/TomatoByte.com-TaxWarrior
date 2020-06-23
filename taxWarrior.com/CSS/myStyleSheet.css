@@ -1,0 +1,19 @@
+
+
+body {
+        background-image: url("images/parchment.jpg"); 
+        background-repeat: no-repeat; 
+        background-size: cover;
+    }
+        
+.borderexample{
+    border-style:solid;
+    border-color:#287EC7; 
+}
+        
+.borderexample2{
+    border-style:solid;
+    border-color:#7413c4;
+}
+        
+
